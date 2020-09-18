@@ -19,7 +19,7 @@ export default {
       productList : [
                     {
                         id : 1,
-                        title : "MacBook Pro33",
+                        title : "MacBook Pro",
                         price : 100,
                         count : 10,
                         description : "Açıklama 1"
